@@ -5,44 +5,26 @@
     "depends": {
       "mods.qmod": "*"
     },
-    "changelog": {
-      "1.0.0": "Public release"
-    },
     "extras": {
       "Energy Solutions": {
         "id": "mods.alterahub.energy",
-        "version": "1.0.0",
-        "changelog": {
-          "1.0.0": "Public release"
-        }
+        "version": "1.0.0"
       },
       "Life Support Solutions": {
         "id": "mods.alterahub.lifesupport",
-        "version": "1.0.0",
-        "changelog": {
-          "1.0.0": "Public release"
-        }
+        "version": "1.0.0"
       },
       "Production Solutions": {
         "id": "mods.alterahub.production",
-        "version": "1.0.0",
-        "changelog": {
-          "1.0.0": "Public release"
-        }
+        "version": "1.0.0"
       },
       "Storage Solutions": {
         "id": "mods.alterahub.storage",
-        "version": "1.0.0",
-        "changelog": {
-          "1.0.0": "Public release"
-        }
+        "version": "1.0.0"
       },
       "Home Solutions": {
         "id": "mods.alterahub.home",
-        "version": "1.0.0",
-        "changelog": {
-          "1.0.0": "Public release"
-        }
+        "version": "1.0.0"
       }
     }
   }
