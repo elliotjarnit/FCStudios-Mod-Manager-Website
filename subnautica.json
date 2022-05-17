@@ -2,6 +2,9 @@
   "Alterra Hub": {
     "id": "mods.alterahub",
     "version": "1.0.0",
+    "depends": {
+      "mods.qmod": "*"
+    },
     "changelog": {
       "1.0.0": "Public release"
     },
